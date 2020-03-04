@@ -1,0 +1,15 @@
+
+*.o
+*.htm
+*.crf
+*.lnp
+*.d
+*.pawel
+*.uvoptx
+*.lst
+*.map
+*.axf
+*.dep
+RTE/_Target_1/RTE_Components.h
+*.ini
+*.uvprojx
